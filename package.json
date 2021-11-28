@@ -1,7 +1,7 @@
 {
   "name": "@fncheng/postcss-px2rem",
   "description": "Postcss version of px2rem",
-  "version": "0.3.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/fncheng/px2rem-postcss",
   "author": "fncheng <dong862647669@gmail.com>",
   "repository": {
