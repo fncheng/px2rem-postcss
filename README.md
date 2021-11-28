@@ -1,6 +1,6 @@
 # postcss-px2rem
 
-This is a [postcss](https://www.npmjs.com/package/postcss) plugin of [px2rem](https://www.npmjs.com/package/px2rem).
+This is a [postcss](https://www.npmjs.com/package/postcss) plugin of [px2rem](https://www.npmjs.com/package/px2rem). fork from [postcss-px2rem](https://www.npmjs.com/package/postcss-px2rem). add support for postcss8.
 
 [![NPM version][npm-image]][npm-url]
 [![Build status][travis-image]][travis-url]
